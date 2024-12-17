@@ -1,0 +1,15 @@
+Performance Results of Random Forest Model with K-Fold Cross Validation
+
+Average Mean Squared Error (MSE): 1764.90
+Average Root Mean Squared Error (RMSE): 39.60
+Average R² Score: 0.01
+Median R² Score: 0.13
+Minimum R² Score: -1.46
+Maximum R² Score: 0.53
+Variance in R² Scores: 0.30
+Number of trees used in the model (n_estimators):   200
+Number of augmented samples:   100
+Number of K-Folds:    10
+Total number of features in model:    16
+Maximum number of features to fit in model: log2 
+Random number seed:    42

@@ -1,0 +1,8 @@
+Performance Results of Random Forest Model
+
+Mean Squared Error (MSE): 1254.49
+Root Mean Squared Error (RMSE): 35.42
+R² Score: 0.21
+Number of trees used in the model (n_estimators):  1000
+Number of augmented samples:   100
+Test size fraction: 0.30

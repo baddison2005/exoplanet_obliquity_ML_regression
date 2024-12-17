@@ -1,0 +1,8 @@
+Performance Results of Random Forest Model with Physically Derived Missing Values and Engineered Features
+
+Mean Squared Error (MSE): 1219.55
+Root Mean Squared Error (RMSE): 34.92
+R² Score: -0.20
+Number of trees used in the model (n_estimators):  1000
+Number of augmented samples:   100
+Test size fraction: 0.30
