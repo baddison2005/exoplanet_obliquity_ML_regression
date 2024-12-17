@@ -1,0 +1,86 @@
+Column Definitions used in NASA Exoplanet Archive table
+
+# COLUMN pl_name:        Planet Name
+# COLUMN default_flag:   Default Parameter Set
+# COLUMN sy_snum:        Number of Stars
+# COLUMN sy_pnum:        Number of Planets
+# COLUMN discoverymethod: Discovery Method
+# COLUMN tran_flag:      Detected by Transits
+# COLUMN pl_controv_flag: Controversial Flag
+# COLUMN cb_flag: Circumbinary Flag
+# COLUMN pl_refname:     Planetary Parameter Reference
+# COLUMN pl_orbper:      Orbital Period [days]
+# COLUMN pl_orbpererr1:  Orbital Period Upper Unc. [days]
+# COLUMN pl_orbpererr2:  Orbital Period Lower Unc. [days]
+# COLUMN pl_orbperlim:   Orbital Period Limit Flag
+# COLUMN pl_orbsmax:     Orbit Semi-Major Axis [au]
+# COLUMN pl_orbsmaxerr1: Orbit Semi-Major Axis Upper Unc. [au]
+# COLUMN pl_orbsmaxerr2: Orbit Semi-Major Axis Lower Unc. [au]
+# COLUMN pl_orbsmaxlim:  Orbit Semi-Major Axis Limit Flag
+# COLUMN pl_rade:        Planet Radius [Earth Radius]
+# COLUMN pl_radeerr1:    Planet Radius Upper Unc. [Earth Radius]
+# COLUMN pl_radeerr2:    Planet Radius Lower Unc. [Earth Radius]
+# COLUMN pl_radelim:     Planet Radius Limit Flag
+# COLUMN pl_bmassj:      Planet Mass or Mass*sin(i) [Jupiter Mass]
+# COLUMN pl_bmassjerr1:  Planet Mass or Mass*sin(i) [Jupiter Mass] Upper Unc.
+# COLUMN pl_bmassjerr2:  Planet Mass or Mass*sin(i) [Jupiter Mass] Lower Unc.
+# COLUMN pl_bmassjlim:   Planet Mass or Mass*sin(i) [Jupiter Mass] Limit Flag
+# COLUMN pl_orbeccen:    Eccentricity
+# COLUMN pl_orbeccenerr1: Eccentricity Upper Unc.
+# COLUMN pl_orbeccenerr2: Eccentricity Lower Unc.
+# COLUMN pl_orbeccenlim: Eccentricity Limit Flag
+# COLUMN pl_insol:       Insolation Flux [Earth Flux]
+# COLUMN pl_insolerr1:   Insolation Flux Upper Unc. [Earth Flux]
+# COLUMN pl_insolerr2:   Insolation Flux Lower Unc. [Earth Flux]
+# COLUMN pl_insollim:    Insolation Flux Limit Flag
+# COLUMN pl_eqt:         Equilibrium Temperature [K]
+# COLUMN pl_eqterr1:     Equilibrium Temperature Upper Unc. [K]
+# COLUMN pl_eqterr2:     Equilibrium Temperature Lower Unc. [K]
+# COLUMN pl_eqtlim:      Equilibrium Temperature Limit Flag
+# COLUMN pl_ratdor:      Ratio of Semi-Major Axis to Stellar Radius
+# COLUMN pl_ratdorerr1:  Ratio of Semi-Major Axis to Stellar Radius Upper Unc.
+# COLUMN pl_ratdorerr2:  Ratio of Semi-Major Axis to Stellar Radius Lower Unc.
+# COLUMN pl_ratdorlim:   Ratio of Semi-Major Axis to Stellar Radius Limit Flag
+# COLUMN pl_ratror:      Ratio of Planet to Stellar Radius
+# COLUMN pl_ratrorerr1:  Ratio of Planet to Stellar Radius Upper Unc.
+# COLUMN pl_ratrorerr2:  Ratio of Planet to Stellar Radius Lower Unc.
+# COLUMN pl_ratrorlim:   Ratio of Planet to Stellar Radius Limit Flag
+# COLUMN st_refname:     Stellar Parameter Reference
+# COLUMN st_spectype:    Spectral Type
+# COLUMN st_teff:        Stellar Effective Temperature [K]
+# COLUMN st_tefferr1:    Stellar Effective Temperature Upper Unc. [K]
+# COLUMN st_tefferr2:    Stellar Effective Temperature Lower Unc. [K]
+# COLUMN st_tefflim:     Stellar Effective Temperature Limit Flag
+# COLUMN st_rad:         Stellar Radius [Solar Radius]
+# COLUMN st_raderr1:     Stellar Radius Upper Unc. [Solar Radius]
+# COLUMN st_raderr2:     Stellar Radius Lower Unc. [Solar Radius]
+# COLUMN st_radlim:      Stellar Radius Limit Flag
+# COLUMN st_mass:        Stellar Mass [Solar mass]
+# COLUMN st_masserr1:    Stellar Mass Upper Unc. [Solar mass]
+# COLUMN st_masserr2:    Stellar Mass Lower Unc. [Solar mass]
+# COLUMN st_masslim:     Stellar Mass Limit Flag
+# COLUMN st_met:         Stellar Metallicity [dex]
+# COLUMN st_meterr1:     Stellar Metallicity Upper Unc. [dex]
+# COLUMN st_meterr2:     Stellar Metallicity Lower Unc. [dex]
+# COLUMN st_metlim:      Stellar Metallicity Limit Flag
+# COLUMN st_lum:         Stellar Luminosity [log(Solar)]
+# COLUMN st_lumerr1:     Stellar Luminosity Upper Unc. [log(Solar)]
+# COLUMN st_lumerr2:     Stellar Luminosity Lower Unc. [log(Solar)]
+# COLUMN st_lumlim:      Stellar Luminosity Limit Flag
+# COLUMN st_logg:        Stellar Surface Gravity [log10(cm/s**2)]
+# COLUMN st_loggerr1:    Stellar Surface Gravity Upper Unc. [log10(cm/s**2)]
+# COLUMN st_loggerr2:    Stellar Surface Gravity Lower Unc. [log10(cm/s**2)]
+# COLUMN st_logglim:     Stellar Surface Gravity Limit Flag
+# COLUMN st_age:         Stellar Age [Gyr]
+# COLUMN st_ageerr1:     Stellar Age Upper Unc. [Gyr]
+# COLUMN st_ageerr2:     Stellar Age Lower Unc. [Gyr]
+# COLUMN st_agelim:      Stellar Age Limit Flag
+# COLUMN st_vsin:        Stellar Rotational Velocity [km/s]
+# COLUMN st_vsinerr1:    Stellar Rotational Velocity [km/s] Upper Unc.
+# COLUMN st_vsinerr2:    Stellar Rotational Velocity [km/s] Lower Unc.
+# COLUMN st_vsinlim:     Stellar Rotational Velocity Limit Flag
+# COLUMN st_rotp:        Stellar Rotational Period [days]
+# COLUMN st_rotperr1:    Stellar Rotational Period [days] Upper Unc.
+# COLUMN st_rotperr2:    Stellar Rotational Period [days] Lower Unc.
+# COLUMN st_rotplim:     Stellar Rotational Period Limit Flag
+# COLUMN rowupdate:      Date of Last Update
