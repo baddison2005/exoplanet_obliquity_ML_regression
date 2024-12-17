@@ -8,14 +8,14 @@ This Jupyter notebook investigates the orbital obliquity of exoplanets by using 
 Orbital obliquity is the measure of the alignment (i.e., angle) between a planet's orbit (orbital plane/normal) and the equator of its host star (the perpendicular to the spin axis), a quantity also known as spin-orbit alignment (e.g., see, [Rossiter 1924](https://ui.adsabs.harvard.edu/abs/1924ApJ....60...15R/abstract), [McLaughlin 1924](https://ui.adsabs.harvard.edu/abs/1924ApJ....60...22M/abstract), [Queloz et al. 2000](https://ui.adsabs.harvard.edu/abs/2000A%26A...359L..13Q/abstract), [Addison et al. 2013](https://ui.adsabs.harvard.edu/abs/2013ApJ...774L...9A/abstract)). A planet's orbit is considered aligned if the measured angle between its orbit and host star equator is consistent with zero degrees. The reason for measuring this exoplanet property is that it provides insights into the formation and evolutionary/migration history of planets (see the review by [Dawson \& Johnson 2018](https://ui.adsabs.harvard.edu/abs/2018ARA%26A..56..175D/abstract)). Obliquity has traditionally been measured via spectroscopy for transiting exoplanets, either by measuring the radial velocity anomaly (a.k.a., the Rossiter-McLaughlin Effect) or the distortion of the stellar line profile, produced during a transit.
 
 Below on the left is an artist impression of the hot Jupiter, WASP-79b, with its orbit misaligned by close to 90 degrees (near polar orbit) and on the right, the Rossiter-McLaughlin Effect velocity anomaly as measured for WASP-79b.
-<figure>
+<p float="middle">
     <img src="wasp-79_orbit_full.jpg"
          alt="WASP-79b polar orbit"
-         width="450" height="410">
+         width="495" height="452">
     <img src="radial_velocities.jpg"
          alt="WASP-79b RV anomaly"
-         width="450" height="417">
-</figure>
+         width="486" height="450">
+</p>
 
 Of particular interests are the existence of the so-called 'hot Jupiters', planets with masses and radii similar to that of Jupiter but on orbits well-inside the equivalent orbit of Mercury around the Sun and are therefore, very hot versions of Jupiter. In fact, the most extreme hot Jupiters have orbital periods of less than 1 day! The Solar System obviously does not have a hot Jupiter and their existance is difficult to explain (despite their low occurrence rates). The widely accepted model of planet formation, core-accretion, does not predict the existence of these planets, instead it predicts Jupiter mass planets must form beyond the 'ice-line', about the same distance as Jupiter is from the Sun in the Solar System, where icy volatiles can exist in solid state and can build giant planets. It is thought that hot Jupiters initially formed out beyond the ice-line and then migrated inwards with the process of migration dictating the degree of alignment between the planet's orbit and the host star's equator.
 
