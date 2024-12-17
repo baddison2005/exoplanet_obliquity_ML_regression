@@ -11,10 +11,10 @@ Below on the left is an artist impression of the hot Jupiter, WASP-79b, with its
 <p float="middle">
     <img src="wasp-79_orbit_full.jpg"
          alt="WASP-79b polar orbit"
-         width="450" height="410">
+         width="400" height="364">
     <img src="radial_velocities.jpg"
          alt="WASP-79b RV anomaly"
-         width="450" height="417">
+         width="400" height="370">
 </p>
 
 Of particular interests are the existence of the so-called 'hot Jupiters', planets with masses and radii similar to that of Jupiter but on orbits well-inside the equivalent orbit of Mercury around the Sun and are therefore, very hot versions of Jupiter. In fact, the most extreme hot Jupiters have orbital periods of less than 1 day! The Solar System obviously does not have a hot Jupiter and their existance is difficult to explain (despite their low occurrence rates). The widely accepted model of planet formation, core-accretion, does not predict the existence of these planets, instead it predicts Jupiter mass planets must form beyond the 'ice-line', about the same distance as Jupiter is from the Sun in the Solar System, where icy volatiles can exist in solid state and can build giant planets. It is thought that hot Jupiters initially formed out beyond the ice-line and then migrated inwards with the process of migration dictating the degree of alignment between the planet's orbit and the host star's equator.
